@@ -21,7 +21,7 @@
 #include <sys/stat.h>
 #include <fcntl.h>
 
-#include <cutils/log.h>
+#include <log/log.h>
 #include <audience-routes.h>
 
 #include "audience.h"

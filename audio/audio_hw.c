@@ -35,7 +35,7 @@
 #include <math.h>
 #include <dlfcn.h>
 
-#include <cutils/log.h>
+#include <log/log.h>
 #include <cutils/str_parms.h>
 #include <cutils/atomic.h>
 #include <cutils/sched_policy.h>
