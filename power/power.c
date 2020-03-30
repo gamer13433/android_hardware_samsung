@@ -36,7 +36,7 @@
 
 #include <hardware/hardware.h>
 #include <hardware/power.h>
-#include "samsung_lights.h"
+#include <samsung_lights.h>
 
 #include "samsung_power.h"
 

@@ -24,6 +24,7 @@ LOCAL_C_INCLUDES += \
     hardware/libhardware/include \
     system/core/include \
     $(LOCAL_PATH)/include \
+    hardware/samsung/hidl/light/include \
     hardware/libhardware/include
 
 LOCAL_SHARED_LIBRARIES := \
