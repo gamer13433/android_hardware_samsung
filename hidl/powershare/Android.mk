@@ -31,7 +31,7 @@ LOCAL_SHARED_LIBRARIES := \
     libhidlbase \
     libhidltransport \
     libutils \
-    vendor.lineage.powershare@1.0
+    vendor.havoc.powershare@1.0
 
 LOCAL_MODULE := vendor.lineage.powershare@1.0-service.samsung
 LOCAL_INIT_RC := vendor.lineage.powershare@1.0-service.samsung.rc
