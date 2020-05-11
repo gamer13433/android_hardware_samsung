@@ -20,7 +20,7 @@ LOCAL_STATIC_ANDROID_LIBRARIES := \
     android-support-v14-preference
 
 LOCAL_STATIC_JAVA_LIBRARIES := \
-    com.android.internal.R
+    com.android.internal.custom.hardware
 
 LOCAL_RESOURCE_DIR := \
     $(LOCAL_PATH)/res \
